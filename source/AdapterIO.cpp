@@ -481,6 +481,7 @@ BInputAdapter::Write(const void* buffer, size_t size)
 
 
 // FBC
+
 void BAdapterIO::_ReservedAdapterIO1() {}
 void BAdapterIO::_ReservedAdapterIO2() {}
 void BAdapterIO::_ReservedAdapterIO3() {}
